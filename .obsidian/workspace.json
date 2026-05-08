@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "ff8b3ffdb0971728",
+    "type": "split",
+    "children": [
+      {
+        "id": "707b42cb3a38c15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95a7e67037769872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UID_Registry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UID_Registry"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d50152ceba961037",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f44ffa80f3c456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e3e634233c7dfca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3cd872fb52284aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "QUR-095",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ac2b1c176121040",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "90a5c8053d39c035",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd69b968b07f20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ba5481889fd9eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a4cf3009f2829098",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "685f857da2ee9103",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2677a54a8e7346e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fb1d2e05df58253e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "95a7e67037769872",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20260507221054.jpg",
+    "UID_Registry.md",
+    "02_Sources/Quranic_Mining/Batch_06_Political_International.md",
+    "02_Sources/Quranic_Mining/Batch_07_Psychological_Engineering.md",
+    "02_Sources/Quranic_Mining/Batch_02_Structural_Dynamics.md",
+    "02_Sources/Quranic_Mining/Batch_01_Foundational_Axioms.md",
+    "02_Sources/Quranic_Mining/Batch_04_Epistemology_Scientific.md",
+    "02_Sources/Quranic_Mining/Batch_03_Micro_Social_Legal.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "02_Sources/Quranic_Mining/Batch_08_Civilizational_Dynamics.md",
+    "02_Sources/Quranic_Mining/Batch_09_Qualitative_Optimization.md",
+    "00_Framework/Structure_Analysis_Report.md",
+    "SEQ-055 Prosocial Behavior Incentivization.md",
+    "01_Ontology/Socio_Political/Psychology_Consciousness_451-500.md",
+    "01_Ontology/Socio_Political/Economics_Value_Exchange_301-350.md",
+    "01_Ontology/Biological/Human_Pillar_01-50.md",
+    "01_Ontology/Biological/Biotech_Synthetic_Longevity_401-450.md",
+    "02_Sources/Quranic_Mining/Batch_05_Environment_Resources.md",
+    "Structure_Analysis_Report.md",
+    "INDEX.md",
+    "00_Framework/Methodology.md",
+    "01_Ontology/Socio_Political/Governance_Protocol_Coordination_151-200.md",
+    "01_Ontology/Socio_Political/Education_Pedagogy_Priming_601-650.md",
+    "01_Ontology/Technical/Planetary_Engineering_Climate_551-600.md",
+    "01_Ontology/Technical/Architecture_Habitat_Spatial_501-550.md",
+    "01_Ontology/Technical/Resource_Energy_Metabolic_101-150.md",
+    "01_Ontology/Technical",
+    "extract_seq.py",
+    "01_Ontology/Biological/Human_Pillar_01-50.md.new",
+    "03_Applications",
+    "02_Sources/Quranic_Mining",
+    "02_Sources",
+    "01_Ontology/Epistemic",
+    "01_Ontology/Economic",
+    "01_Ontology/Socio_Political"
+  ]
+}
